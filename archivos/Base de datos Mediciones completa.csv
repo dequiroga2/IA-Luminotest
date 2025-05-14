@@ -1,0 +1,509 @@
+Actividad Numero,Tipo de tarea o área de actividad ,Luxes Mínimos,,Column4,Column5,Column6,Column7,Column8,Column9,Column10,Column11,Column12,Column13,,,
+1,Corredores y zonas de circulación,100,,"0,40",40,28,50,50,30,"1. Iluminancia a nivel del
+suelo.
+Ra y UGRL similares a las
+áreas adyacentes.
+2. 150 lx si hay vehículos
+en la ruta, incluyendo la
+circulación compartida con
+peatones en los
+parqueaderos cubiertos.
+3. La iluminación de las
+salidas y entradas debe
+proporcionar una zona de
+transición para evitar
+cambios bruscos en la
+iluminancia entre el interior
+y el exterior durante el día
+o la noche.
+4. Se debe tener cuidado
+para evitar el
+deslumbramiento a
+conductores y peatones",,,,,,
+2,"Escaleras, escaleras mecánicas, travoladores",100,,"0,40",40,25,50,50,30,"1. Iluminancia a nivel del
+suelo.
+2. Requiere un mayor
+contraste en el borde de
+los escalones.",,,,,,
+3,"Ascensores, montacargas",100,,"0,40",40,25,50,50,30,"1. Iluminancia a nivel del
+suelo.
+2. Luz en frente del
+ascensor, ver Ref. 1.4. de
+esta tabla",,,,,,
+4,Área frente a ascensores y escaleras mecánicas,200,,"0,40",40,25,75,75,50,"1. Iluminancia a nivel del
+suelo.
+2. Superficie de hasta 1 m
+en frente a ascensor,
+montacarga y escaleras
+mecánicas.",,,,,,
+5,Rampas/bahías de carga,150,,"0,40",40,25,50,50,-,,,,,,,
+6,Comedores y zonas de descanso,200,,"0,40",80,22,75,75,50,,,,,,,
+7,Salas de descanso,100,,"0,40",80,22,50,50,30,,,,,,,
+8,Salas para ejercicio físico,300,,"0,40",80,22,100,100,75,,,,,,,
+9,Enfermería,500,,"0,60",80,19,150,150,100,,,,,,,
+10,"Salas de planta, salas de operación de maquinaria",200,,"0,40",80,25,50,50,30,,,,,,,
+11,"Clasificación de correos, tableros de conmutadores",500,,"0,60",80,19,150,150,100,,,,,,,
+12,Áreas de manipulación y de empaque,300,,"0,60",80,25,100,50,30,,,,,,,
+13,Preparación de materiales; trabajo en hornos y mezcladores,200,,"0,40",40,28,50,50,-,,,,,,,
+14,Trabajo general de la máquina,300,,"0,60",80,25,100,100,-,,,,,,,
+15,Formas ásperas,300,,"0,60",80,25,100,100,-,,,,,,,
+16,"Preparación, trabajo general de la máquina",300,,"0,60",80,25,100,100,-,,,,,,,
+17,"Esmaltado, laminado, prensado, conformación de piezas simples, acristalamiento, soplado de vidrio",300,,"0,60",80,25,100,100,-,,,,,,,
+18,"Molienda, grabado, pulido de vidrio, conformación de piezas de precisión, fabricación de instrumentos de vidrio",750,,"0,70",80,19,150,150,100,,,,,,,
+19,Moldeado manual y de núcleo,300,,"0,60",80,25,100,100,50,,,,,,,
+20,Fundición a presión,300,,"0,60",80,25,100,100,50,,,,,,,
+21,Construcción de modelos,500,,"0,60",80,22,150,150,75,,,,,,,
+22,Peluquería,500,,"0,60",90,19,150,150,100,,,,,,,
+23,Fabricación de joyas,1000,,"0,70",90,16,150,150,100,,,,,,,
+24,Fabricación de relojes (manual),1500,,"0,70",80,16,150,150,100,,,,,,,
+25,Marcado y clasificación de mercancías,300,,"0,60",80,25,100,100,50,,,,,,,
+26,Lavado y tintorería,300,,"0,60",80,25,100,100,50,,,,,,,
+27,"Planchado, prensado",300,,"0,60",80,25,100,100,50,,,,,,,
+28,"Trabajos en cubas, barriles, pozos",200,,"0,40",80,25,75,75,30,,,,,,,
+29,"Descarnado, pelado, frotado, volteo de pieles",300,,"0,40",80,25,100,100,50,,,,,,,
+30,"Trabajo de talabartería (elaboración de artículos de cuero), fabricación de zapatos: puntadas, costura, pulido, modelado, corte, punzado ",500,,"0,60",80,22,150,150,100,,,,,,,
+31,Fabricación de guantes,500,,"0,60",80,22,150,150,100,,,,,,,
+32,Sala de calderas,100,,"0,40",40,28,50,50,30,,,,,,,
+33,Salas de máquinas,200,,"0,40",80,25,50,50,30,,,,,,,
+34,"Salas laterales, cuartos de bombas, cuartos de condensadores, etc.; tableros de distribución (dentro de los edificios)",200,,"0,40",80,25,50,50,30,,,,,,,
+35,"Corte, estampado, realce, grabado en bloque, trabajos sobre piedras y platinas, máquinas de impresión, fabricación de matrices",500,,"0,60",80,19,150,150,75,,,,,,,
+36,Clasificación de papel e impresión a mano,500,,"0,60",80,19,150,150,75,,,,,,,
+37,"Ajuste de tipos, retoques, litografía",1000,,"0,70",80,19,150,150,100,,,,,,,
+38,Plantas de producción con operación manual ocasional,150,,"0,40",40,28,50,50,30,,,,,,,
+39,Plantas de producción con operación manual continua,200,,"0,60",80,25,50,50,30,,,,,,,
+40,Tren del molino; enrollado; línea de corte,300,,"0,60",40,25,75,75,30,,,,,,,
+41,"Ensayo, medición e inspección",500,,"0,60",80,22,150,150,100,,,,,,,
+42,Puestos de trabajo y zonas en baños,200,,"0,60",60,25,50,50,30,,,,,,,
+43,"Cardado de textil, lavado, planchado, trabajo en máquina dentada, dibujo, peinado, dimensionamiento, corte de tarjetas, pre-hilado, hilado de yute y cáñamo",300,,"0,60",40,22,100,100,50,,,,,,,
+44,"Cosido, tejido fino, tomada de puntadas",750,,"0,70",80,22,150,150,100,,,,,,,
+45,"Acabado, teñido",500,,"0,60",80,22,150,150,100,,,,,,,
+46,Sala de secado,100,,"0,40",60,28,50,50,30,,,,,,,
+47,Impresión automática de telas,500,,"0,60",90,25,100,100,50,,,,,,,
+48,Fabricación de sombreros,500,,"0,60",80,22,150,150,75,,,,,,,
+49,Taller de prensa -inspección visual,500,,"0,60",80,22,150,50,30,,,,,,,
+50,Trabajo de carrocería y montaje - línea automática,300,,"0,60",80,25,100,50,30,,,,,,,
+51,Trabajo de carrocería y montaje -soldadura manual,500,,"0,60",80,22,150,50,30,,,,,,,
+52,"Pintura, cámara de pulverización, cámara de pulido",750,,"0,70",80,22,150,150,30,,,,,,,
+53,Fabricación de tapicería (manual),1000,,"0,70",80,19,150,50,30,,,,,,,
+54,"Detallado: - Montaje de subpartes (puertas, salpicadero, tapicería) - Montaje bajo chasis - Montaje mecánico ",750,,"0,70",80,22,150,50,30,,,,,,,
+55,Inspección final,1000,,"0,70",90,19,150,150,30,,,,,,,
+56,"Procesamiento automático, por ejemplo, secado, fabricación de madera contrachapada",50,,"0,40",40,28,-,-,-,,,,,,,
+57,Pozos de vapor,150,,"0,40",40,28,50,50,30,,,,,,,
+58,"Trabajo en banco de carpintería, encolado, montaje ",300,,"0,60",80,25,100,100,50,,,,,,,
+59,"Pulido, pintura, carpintería de lujo",750,,"0,70",80,22,150,150,100,,,,,,,
+60,Trabajos en maquinas para trabajar maderas,750,,,,,,,,,,,,,,
+61,"Mostrador de recepción / cajero, escritorio de porteros",300,,"0,60",80,22,100,100,75,,,,,,,
+62,Restaurante de autoservicio,200,,"0,40",80,22,75,75,50,,,,,,,
+63,Buffet,300,,"0,60",80,22,75,75,50,,,,,,,
+64,Salas de práctica/ensayo,300,,"0,60",80,22,100,100,75,,,,,,,
+65,Área de descarga / carga,200,,"0,40",80,25,50,50,30,,,,,,,
+66,Área de empaque / agrupación,300,,"0,50",80,25,100,100,30,,,,,,,
+67,Configuración y remanipulación,750,,"0,60",80,22,150,150,30,,,,,,,
+68,Almacenamiento abierto de mercancías,200,,"0,40",80,25,50,50,30,,,,,,,
+69,Corredor logístico central (tráfico pesado),300,,"0,60",80,25,100,100,30,,,,,,,
+70,"Carga y operación de mercancías, manipulación de equipos y maquinaria",200,,"0,40",80,25,50,50,-,,,,,,,
+71,"Corrales para animales enfermos, establos de parto",200,,"0,60",80,25,50,50,-,,,,,,,
+72,"Preparación de alimento, lácteos, lavado de utensilios",200,,"0,60",80,25,50,50,-,,,,,,,
+73,Preparación y horneado ,300,,"0,60",80,22,100,100,50,,,,,,,
+74,"Acabado, glaseado, decoración",500,,"0,70",80,22,150,150,75,,,,,,,
+75,Estaciones de trabajo constantemente atendidas en instalaciones de procesamiento,300,,"0,60",80,25,100,100,50,,,,,,,
+76,"Salas de medición de precisión, laboratorios",500,,"0,60",80,19,150,150,75,,,,,,,
+77,Producción farmacéutica,500,,"0,60",80,22,150,150,75,,,,,,,
+78,Producción de neumáticos,500,,"0,60",80,22,150,150,75,,,,,,,
+79,"Corte, acabado, inspección ",750,,"0,70",80,19,150,150,100,,,,,,,
+80,Fabricación de cables y alambres,300,,"0,60",80,25,100,100,50,,,,,,,
+81,Fabricación de Bobinas,300,,"0,60",80,25,100,100,50,,,,,,,
+82,Galvanizado,300,,"0,60",80,25,100,100,50,,,,,,,
+83,Fabricación de transformadores,300,,"0,60",80,25,100,100,50,,,,,,,
+84,Fabricación de tableros de control electrónicos,500,,"0,60",80,22,150,150,100,,,,,,,
+85,Fabricación de partes para computadores,750,,"0,70",80,19,150,150,100,,,,,,,
+86,Fabricación de equipos de medición,1000,,"0,70",80,16,150,150,100,,,,,,,
+87,"Talleres electrónicos, pruebas, ajustes",1500,,"0,70",80,16,150,150,100,,,,,,,
+88,"Puestos de trabajo y zonas en: - cervecerías, malteado, rellenar barriles, limpiar, tamizar, pelar. fábricas de conservas y chocolate, - estaciones y zonas de trabajo en fábricas de azúcar, para secado y fermentación de tabaco crudo, bodega de fermentación",200,,"0,40",80,25,50,50,30,,,,,,,
+89,"Clasificación y lavado de productos, molienda, mezcla, envasado",300,,"0,60",80,25,100,100,50,,,,,,,
+90,"Puestos de trabajo y zonas críticas en mataderos, carnicerías, centrales lecheras, en pisos de filtración en refinerías de azúcar",500,,"0,60",80,25,150,150,75,,,,,,,
+91,Corte y clasificación de frutas y hortalizas,300,,"0,60",80,25,100,100,50,,,,,,,
+92,"Fabricación de alimentos delicatessen, trabajos de cocina, fabricación de puros y cigarrillos",500,,"0,60",80,22,150,150,75,,,,,,,
+93,"Inspección de vasos y botellas, control de productos, recorte, clasificación, decoración",500,,"0,60",80,22,150,150,100,,,,,,,
+94,Laboratorios,500,,"0,60",80,19,150,150,100,,,,,,,
+95,Preparación de arena,200,,"0,40",80,25,50,50,30,,,,,,,
+96,Revestimiento,200,,"0,40",80,25,50,50,30,,,,,,,
+97,Puestos de trabajo en cúpula y mezclador,200,,"0,40",80,25,50,50,30,,,,,,,
+98,Bahía de fundición,200,,"0,40",80,25,50,50,30,,,,,,,
+99,Áreas de agite,200,,"0,40",80,25,50,50,30,,,,,,,
+100,Moldeado a máquina,200,,"0,40",80,25,50,50,30,,,,,,,
+101,Forja de troquel abierto,200,,"0,60",80,25,50,50,30,,,,,,,
+102,Forja por goteo,300,,"0,60",80,25,75,75,30,,,,,,,
+103,Soldadura,300,,"0,60",80,25,75,75,30,,,,,,,
+104,Mecanizado áspero y medio:,300,,"0,60",80,22,75,75,30,,,,,,,
+105,Mecanizado de precisión,500,,"0,70",80,19,150,150,75,,,,,,,
+106,Grabado; inspección,750,,"0,70",80,19,150,150,100,,,,,,,
+107,Talleres de trefilado de cables y tuberías; formación en frío,300,,"0,60",80,25,75,75,30,,,,,,,
+108,Mecanizado de placas: espesor ? 5 mm,200,,"0,60",80,25,50,50,30,,,,,,,
+109,Trabajo en placas metálicas: espesor < 5 mm,300,,"0,60",80,22,75,75,30,,,,,,,
+110,Fabricación de herramientas; fabricación de equipos de corte,750,,"0,70",80,19,150,150,75,,,,,,,
+111,Galvanización,300,,"0,60",80,25,75,75,30,,,,,,,
+112,Preparación de superficies y pintura,750,,"0,70",80,25,150,150,100,,,,,,,
+113,"Fabricación de herramientas, plantillas, mecánica de precisión, micromecánica",1000,,"0,70",80,19,150,150,100,,,,,,,
+114,"Bordeado, fábricas de celulosa",200,,"0,40",80,25,50,50,30,,,,,,,
+115,"Fabricación y procesamiento de papel, máquinas de papel y cartón ondulado, fabricación de cartón",300,,"0,60",80,25,75,75,50,,,,,,,
+116,"Trabajos de encuadernación estándar, por ejemplo, plegado,",500,,"0,60",80,22,150,150,100,,,,,,,
+117,"Área de copiado, impresión, etc.",300,,"0,40",80,19,100,100,75,,,,,,,
+118,Área de archivo,200,,"0,40",80,25,75,75,50,,,,,,,
+119,Área de la caja registradora,500,,"0,60",80,19,100,75,30,,,,,,,
+120,Área/mesa de empacado,500,,"0,60",80,22,100,-,50,,,,,,,
+121,Área de almacenamiento,300,,"0,40",80,25,50,-,-,,,,,,,
+122,Guardarropa,200,,"0,40",80,25,75,75,50,,,,,,,
+123,Taquillas,300,,"0,60",80,22,75,75,50,,,,,,,
+124,Área de bibliotecarios,500,,"0,60",80,19,150,150,50,,,,,,,
+125,Iluminación general,300,,"0,40",80,22,75,75,50,,,,,,,
+126,Sala de manualidades,300,,"0,60",80,19,100,100,75,,,,,,,
+127,Despensa,200,,"0,40",80,25,-,-,-,,,,"Se deben aplicar
+suficientes iluminancias
+verticales a las estanterías",,,
+128,"Puntos de inspección, salas de sacrificio, procesamiento o desprese y áreas en las que se trabaje con cuchillos, rebanadoras, molinos y sierras",550,,"0,60",80,25,100,50,30,,,,"De acuerdo con la
+Resolución 242 del
+Ministerio de Salud y
+Protección Social o la que
+la modifique o reemplace.",,,
+129,Almacenamiento en estante - suelo,150,,"0,50",80,25,,-,30,,,,"1. Iluminancia a nivel del
+suelo.
+2. UGRL sólo en la
+dirección de visualización
+de la luminaria.",,,
+130,Almacenamiento en estante: cara del estante,75,,"0,40",80,–,-,-,-,,,,"1. En la cara del estante
+del pasillo.
+2. Una banda de 1,0 m
+podrá excluirse del
+perímetro (consulte el
+numeral 3.2.3.1.).",,,
+131,Inspección de color,1000,,"0,70",90,19,150,150,100,,,,4 000 K ? TCC ? 6 500 K,,,
+132,Selección de maderas de chapa,750,,"0,70",90,22,150,150,100,,,,4 000 K ? TCC ? 6 500 K,,,
+133,"Marquetería, trabajo de incrustación",750,,"0,70",90,22,150,150,100,,,,4 000 K ? TCC ? 6 500 K,,,
+134,"Control de calidad, inspección",1000,,"0,70",90,19,150,150,100,,,,4 000 K ? TCC ? 6 500 K,,,
+135,"Escritura, mecanografía, lectura, procesamiento de datos",500,,"0,60",80,19,150,150,100,,,,"1. Para el trabajo con
+pantallas VDT, consulte el
+numeral 3.2.1.8.
+2. La iluminación debe ser
+regulable
+3. Para oficinas celulares
+más pequeñas el requisito
+de la pared se aplica a la
+pared delantera. Para
+otras paredes un requisito
+más bajo de mínimo 75 lx
+es aceptado.",,,
+136,Dibujo técnico,750,,"0,70",80,16,150,150,100,,,,"Para el trabajo con
+pantallas VDT, consulte el
+numeral 3.2.1.8.",,,
+137,Estaciones de trabajo CAD,500,,"0,60",80,19,150,150,100,,,,"Para el trabajo con
+pantallas VDT, consulte el
+numeral 3.2.1.8.",,,
+138,Salas de conferencias y reuniones,500,,"0,60",80,19,150,150,100,,,,"La iluminación debe ser
+regulable",,,
+139,Recepción,300,,"0,60",80,22,100,100,75,,,,"Si el mostrador de
+recepción incluye tareas
+regulares de la estación de
+trabajo, estas deben
+iluminarse en
+consecuencia.",,,
+140,Área general de ventas,300,,"0,40",80,22,75,75,30,,,,"Asegurar suficiente
+iluminancia vertical en los
+estantes.",,,
+141,Vestuario/probador (vestidor),300,,"0,4",90,-,-,-,-,,,,"Considere la iluminancia
+vertical y el modelado
+frente al espejo.",,,
+142,Pasillos de entrada,100,,"0,40",80,22,50,50,30,,,,UGRL sólo si aplica,,,
+143,Estanterías,200,,"0,40",80,19,-,-,-,,,,"1. Iluminancia vertical en
+estantes.
+2. Para la iluminación de
+estantería dedicada, no se
+aplica el valor de UGRL.",,,
+144,Área de lectura,500,,"0,60",80,19,100,100,50,,,,"Se debe lograr un
+ambiente agradable",,,
+145,Rampas de entrada/salida (durante las horas del día),300,,"0,40",40,25,75,75,50,,,,"1. Nivel de iluminancia
+para extenderse 5 m en el
+piso del estacionamiento
+2. Iluminancias a nivel del
+suelo.",,,
+146,Rampas de entrada/salida (por la noche) ,75,,"0,40",40,25,50,50,30,,,,"1. Iluminancias a nivel del
+piso.",,,
+147,"Carriles de circulación de vehículos, rampas internas y sendas peatonales adyacentes a los carriles de circulación vehicular",75,,"0,40",40,25,50,50,30,,,,"1. Iluminancias a nivel del
+suelo.
+2. Una alta iluminancia
+vertical aumenta el
+reconocimiento de los
+rostros de las personas y,
+por lo tanto, la sensación
+de seguridad.",,,
+148,Áreas de estacionamiento –no abiertas al público,75,,"0,25",40,-,50,30,15,,,,"1. Iluminancias a nivel del
+suelo.
+2. Una alta iluminancia
+vertical aumenta el
+reconocimiento de los
+rostros de las personas y,
+por lo tanto, la sensación
+de seguridad.",,,
+149,Sala de juegos,300,,"0,40",80,22,100,100,75,,,,"Se deben evitar las
+luminancias altas en las
+direcciones de
+visualización desde abajo,
+mediante el uso de
+cubiertas difusas.",,,
+150,Guarderías,300,,"0,40",80,22,100,100,75,,,,"Se deben evitar las
+luminancias altas en las
+direcciones de
+visualización desde abajo,
+mediante el uso de
+cubiertas difusas.",,,
+151,"Aula o salón de clases, salas de lectura -Actividades generales",500,,"0,60",80,19,150,150,100,,,,"La iluminación debe ser
+controlable, para
+diferentes actividades y
+ajustes de escena.",,,
+152,"Auditorio, salas de conferencias",500,,"0,60",80,19,150,150,50,,,,"La iluminación debe ser
+controlable para satisfacer
+las necesidades de
+presentaciones
+audiovisuales.",,,
+153,Áreas para sentarse en auditorios y salas de conferencias,200,,"0,60",80,19,75,75,50,,,,"1. La iluminación debe ser
+controlable
+2. Para el trabajo con
+pantallas VDT, véase el
+numeral 3.2.1.8.",,,
+154,Fabricación de piedras preciosas sintéticas,1500,,"0,70",90,16,150,150,100,,4 000 K ?,,TCC,? 6 500 K,,
+155,Pasarelas: tripuladas,150,,"0,40",60,25,-,50,30,consulte,,el,,numeral,4.,
+156,"Áreas de guardarropas, baños, vestidores, casilleros, duchas, lavabos e inodoros",200,,"0,40",80,25,75,75,50,si,,estos,,están,,
+157,Iluminación facial frente a espejos,200,,"0,40",80,-,-,-,-,delante,,del,espejo,a,la,
+158,Habitaciones para atención médica,500,,"0,60",90,19,150,150,100,4 000 K,,?,TCC,? 5 000 K,,
+159,Limpieza general,100,,"0,40",-,-,50,50,30,Aplicable,,,cuando,,sea,
+160,Estación de vigilancia,300,,"0,60",80,19,100,100,75,3.,Para,,el,trabajo,con,
+161,"Almacenamiento y alacenas, lavamanos y filtros sanitarios",220,,"0,40",80,25,50,50,30,De acuerdo,,,,con,la,
+162,Secado,50,,"0,40",20,28,-,-,-,Los,colores,,de,seguridad,,
+163,Secado,50,,"0,40",20,28,-,-,-,Los,colores,,de,seguridad,,
+164,"Trabajos de precisión, por ejemplo, molienda decorativa, pintura a mano",1000,,"0,70",90,16,150,150,100,4,000 K ?,,TCC,? 6 500 K,,
+165,Clasificación,500,,"0,60",90,22,150,150,100,4 000 K ?,,,TCC,? 6 500 K,,
+166,Planta de suministro de combustible,50,,"0,40",20,-,-,-,-,Los,colores,,de,,seguridad,
+167,Salas de control,500,,"0,70",80,19,150,150,100,2. Es,,,posible,,que,sea
+168,Inspección de color en impresión multicolor,1500,,"0,70",90,16,150,150,100,4 000 K,,,?,,TCC ? 6,500 K
+169,Acero y cobre grabado,2000,,"0,70",80,16,150,150,100,Iluminación,,,en,el,espacio,
+170,Plantas de producción sin operación manual,50,,"0,40",20,-,-,-,-,Los,colores,,de,,seguridad,
+171,Tienda de losas,50,,"0,40",20,-,-,-,-,Los,,,colores,de,seguridad,
+172,Hornos,200,,"0,40",20,25,50,50,30,Los,,,colores,de,seguridad,
+173,"Túneles subterráneos; secciones de cinta, bodegas, etc.",50,,"0,40",20,-,-,-,-,Los,,,colores,de,seguridad,
+174,"costura, trenzado,",500,,"0,60",60,22,150,150,75,Prevenir,,,estroboscópicos.,,efectos,
+175,"Diseño manual, patrones de dibujo",750,,"0,70",90,22,150,150,100,4 000 K,?,,TCC ? 6,,500 K,
+176,Inspección del color; control de tejido,1000,,"0,70",90,19,150,150,100,4 000 K,?,,TCC ? 6,,500 K,
+177,Reparación invisible,1500,,"0,70",90,19,150,150,100,4 000 K,?,,TCC ? 6,,500 K,
+178,"Pintura, inspección, retoque y pulido",1000,,"0,70",90,19,150,150,30,4 000 K ? TCC ? 6 500 K,,,,,,
+179,"Servicios generales de vehículos, reparación y ensayos",500,,"0,60",80,22,100,50,30,Iluminación,,,en,el,espacio,
+180,Marco de sierra,300,,"0,60",60,25,100,100,50,Prevenir,,,,,efectos,
+181,"torneado, estriado,",500,,"0,60",80,19,150,150,75,Prevenir,,,,,efectos,
+182,Cocina,500,,"0,60",80,22,100,100,75,Debe,haber,,,una,zona,de
+183,Salas de conferencias,500,,"0,60",80,19,150,150,100,La,iluminación,,,debe,,ser
+184,Pasillos,100,,"0,40",80,25,50,50,30,"Iluminancia
+suelo",,,a,nivel,,del
+185,Vestieres,300,,"0,60",90,22,100,100,75,La iluminación,,,,,de,los
+186,"Areas de mantenimiento,",200,,"0,50",80,22,50,50,30,Iluminancia,,,a,nivel,,del
+187,Zona de suspensión de equipos en el área del escenario,300,,"0,40",80,25,75,75,30,"Iluminancia
+suelo.",,,a,nivel,,del
+,,,,,,,,,,,,,,,,
+5,187,37.4,,,,,,,,,,,,,,
+6,187,31.16666667,,,,,,,,,,,,,,
+7,187,26.71428571,,,,,,,,,,,,,,
+8,187,23.375,,,,,,,,,,,,,,
+9,187,20.77777778,,,,,,,,,,,,,,
+10,187,18.7,,,,,,,,,,,,,,
+11,187,17,,,,,,,,,,,,,,
+12,187,15.58333333,,,,,,,,,,,,,,
+13,187,14.38461538,,,,,,,,,,,,,,
+14,187,13.35714286,,,,,,,,,,,,,,
+15,187,12.46666667,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,

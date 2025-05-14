@@ -1,0 +1,338 @@
+Codigo Puesto,Nombre del Puesto o Area Medida,Luxes Mínimos
+1,1.1 Corredores y zonas de circulación,100
+2,"1.2 Escaleras, escaleras mecánicas, travoladores",100
+3,"1.3 Ascensores, montacargas",100
+4,1.4 Área frente a ascensores y escaleras mecánicas,200
+5,1.5 Rampas/bahías de carga,150
+6,1.6 Entrada de edificio con toldo o marquesina,30
+7,1.7 Pasarelas: tripuladas,150
+8,2.1 Comedores y zonas de descanso,200
+9,2.2 Salas de descanso,100
+10,2.3 Salas para ejercicio físico,300
+11,"2.4 Áreas de guardarropas, baños, vestidores, casilleros, duchas, lavabos e inodoros",200
+12,2.5 Iluminación facial frente a espejos,200
+13,2.6 Enfermería,500
+14,2.7 Habitaciones para atención médica,500
+15,2.8 Limpieza general,100
+16,"3.1 Salas de planta, salas de operación de maquinaria",200
+17,"3.2 Clasificación de correos, tableros de conmutadores",500
+18,3.3 Estación de vigilancia,300
+19,"4.1 Almacenamiento y alacenas, lavamanos y filtros sanitarios",220
+20,4.2 Áreas de manipulación y de empaque,300
+21,4.3 Despensa,200
+22,"4.4 Puntos de inspección, salas de sacrificio, procesamiento o desprese y áreas en las que se trabaje con cuchillos, rebanadoras, molinos y sierras",550
+23,5.1 Área de descarga / carga,200
+24,5.2 Área de empaque / agrupación,300
+25,5.3 Configuración y remanipulación,750
+26,5.4 Almacenamiento abierto de mercancías,200
+27,5.5 Almacenamiento en estante - suelo,150
+28,5.6 Almacenamiento en estante: cara del estante,75
+29,5.7 Corredor logístico central (tráfico pesado),300
+30,5.8 Zonas automatizadas (no tripuladas),75
+31,"6.1 Carga y operación de mercancías, manipulación de equipos y maquinaria",200
+32,6.2 Edificios para ganado,50
+33,"6.3 Corrales para animales enfermos, establos de parto",200
+34,"6.4 Preparación de alimento, lácteos, lavado de utensilios",200
+35,7.1 Preparación y horneado,300
+36,"7.2 Acabado, glaseado, decoración",500
+37,8.1 Secado,50
+38,8.2 Preparación de materiales; trabajo en hornos y mezcladores,200
+39,8.3 Trabajo general de la máquina,300
+40,8.4 Formas ásperas,300
+41,9.1 Secado,50
+42,"9.2 Preparación, trabajo general de la máquina",300
+43,"9.3 Esmaltado, laminado, prensado, conformación de piezas simples, acristalamiento, soplado de vidrio",300
+44,"9.4 Molienda, grabado, pulido de vidrio, conformación de piezas de precisión, fabricación de instrumentos de vidrio",750
+45,"9.5 Molienda de vidrio óptico, cristal, molienda a mano y grabado",750
+46,"9.6 Trabajos de precisión, por ejemplo, molienda decorativa, pintura a mano",1000
+47,9.7 Fabricación de piedras preciosas sintéticas,1500
+48,10.1 Instalaciones de procesamiento operadas a distancia,50
+49,10.2 Instalaciones de procesamiento con intervención manual limitada,150
+50,10.3 Estaciones de trabajo constantemente atendidas en instalaciones de procesamiento,300
+51,"10.4 Salas de medición de precisión, laboratorios",500
+52,10.5 Producción farmacéutica,500
+53,10.6 Producción de neumáticos,500
+54,10.7 Inspección de color,1000
+55,"10.8 Corte, acabado, inspección",750
+56,11.1 Fabricación de cables y alambres,300
+57,11.2.1 - bobinas grandes,300
+58,11.2.2 - bobinas de tamaño medio,500
+59,11.2.3 - bobinas pequeñas,750
+60,11.3 Impregnación de bobinas,300
+61,11.4 Galvanizado,300
+62,"11.5.1 - Rudo, por ejemplo, transformadores grandes",300
+63,"11.5.2 - medio, por ejemplo, tableros de control",500
+64,"11.5.3 - fino, por ejemplo, teléfonos, radios, equipos informáticos (computadores)",750
+65,"11.5.4 - precisión, por ejemplo, equipos de medición, placas de circuito impreso",1000
+66,"11.6 Talleres electrónicos, pruebas, ajustes",1500
+67,"12.1 Puestos de trabajo y zonas en:
+- cervecerías, malteado,
+- para lavar, rellenar barriles, limpiar, tamizar, pelar.
+- cocinar en fábricas de conservas y chocolate,
+- estaciones y zonas de trabajo en fábricas de azúcar,
+- para secado y fermentación de tabaco crudo, bodega de
+fermentación",200
+68,"12.2 Clasificación y lavado de productos, molienda, mezcla, envasado",300
+69,"12.3 Puestos de trabajo y zonas críticas en mataderos, carnicerías, centrales lecheras, en pisos de filtración en refinerías de azúcar",500
+70,12.4 Corte y clasificación de frutas y hortalizas,300
+71,"12.5 Fabricación de alimentos delicatessen, trabajos de cocina, fabricación de puros y cigarrillos",500
+72,"12.6 Inspección de vasos y botellas, control de productos, recorte, clasificación, decoración",500
+73,12.7 Laboratorios,500
+74,12.8 Inspección de color,1000
+75,"13.1 Túneles subterráneos, sótanos, etc.",50
+76,13.2 Plataformas,100
+77,13.3 Preparación de arena,200
+78,13.4 Revestimiento,200
+79,13.5 Puestos de trabajo en cúpula y mezclador,200
+80,13.6 Bahía de fundición,200
+81,13.7 Áreas de agite,200
+82,13.8 Moldeado a máquina,200
+83,13.9 Moldeado manual y de núcleo,300
+84,13.10 Fundición a presión,300
+85,13.11 Construcción de modelos,500
+86,14.1 Peluquería,500
+87,15.1 Trabajo con piedras preciosas,1500
+88,15.2 Fabricación de joyas,1000
+89,15.3 Fabricación de relojes (manual),1500
+90,15.4 Fabricación de relojes (automático),500
+91,16.1 Marcado y clasificación de mercancías,300
+92,16.2 Lavado y tintorería,300
+93,"16.3 Planchado, prensado",300
+94,16.4 Inspección y reparaciones,750
+95,"17.1 Trabajos en cubas, barriles, pozos",200
+96,"17.2 Descarnado, pelado, frotado, volteo de pieles",300
+97,"17.3 Trabajo de talabartería (elaboración de artículos de cuero), fabricación de zapatos: puntadas, costura, pulido, modelado, corte, punzado",500
+98,17.4 Clasificación,500
+99,17.5 Teñido de cuero (máquina),500
+100,17.6 Control de calidad,1000
+101,17.7 Inspección de color,1000
+102,17.8 Fabricación de zapatos,500
+103,17.9 Fabricación de guantes,500
+104,18.1 Forja de troquel abierto,200
+105,18.2 Forja por goteo,300
+106,18.3 Soldadura,300
+107,18.4 Mecanizado áspero y medio: mm,300
+108,"18.5 Mecanizado de precisión; molienda: tolerancias < 0,1 mm",500
+109,18.6 Grabado; inspección,750
+110,18.7 Talleres de trefilado de cables y tuberías; formación en frío,300
+111,18.8 Mecanizado de 5 mm,200
+112,18.9 Trabajo en placas metálicas: espesor < 5 mm,300
+113,18.10 Fabricación de herramientas; fabricación de equipos de corte,750
+114,18.11.1 - áspero,200
+115,18.11.2 - medio,300
+116,18.11.3 - fino,500
+117,18.11.4 - precisión,750
+118,18.12 Galvanización,300
+119,18.13 Preparación de superficies y pintura,750
+120,"18.14 Fabricación de herramientas, plantillas, mecánica de precisión, micromecánica",1000
+121,"19.1 Bordeado, fábricas de celulosa",200
+122,"19.2 Fabricación y procesamiento de papel, máquinas de papel y cartón ondulado, fabricación de cartón",300
+123,"19.3 Trabajos de encuadernación estándar, por ejemplo, plegado, clasificación, pegado, corte, estampado, costura",500
+124,20.1 Planta de suministro de combustible,50
+125,20.2 Sala de calderas,100
+126,20.3 Salas de máquinas,200
+127,"20.4 Salas laterales, por ejemplo, cuartos de bombas, cuartos de condensadores, etc.; tableros de distribución (dentro de los edificios)",200
+128,20.5 Salas de control,500
+129,"21.1 Corte, estampado, realce, grabado en bloque, trabajos sobre piedras y platinas, máquinas de impresión, fabricación de matrices",500
+130,21.2 Clasificación de papel e impresión a mano,500
+131,"21.3 Ajuste de tipos, retoques, litografía",1000
+132,21.4 Inspección de color en impresión multicolor,1500
+133,21.5 Acero y cobre grabado,2000
+134,22.1 Plantas de producción sin operación manual,50
+135,22.2 Plantas de producción con operación manual ocasional,150
+136,22.3 Plantas de producción con operación manual continua,200
+137,22.4 Tienda de losas,50
+138,22.5 Hornos,200
+139,22.6 Tren del molino; enrollado; línea de corte,300
+140,22.7 Plataformas de control; paneles de control,300
+141,"22.8 Ensayo, medición e inspección",500
+142,"22.9 Túneles subterráneos; secciones de cinta, bodegas, etc.",50
+143,"23.1 Puestos de trabajo y zonas en baños, apertura de fardos",200
+144,"23.2 Cardado de textil, lavado, planchado, trabajo en máquina dentada, dibujo, peinado, dimensionamiento, corte de tarjetas, pre-hilado, hilado de yute y cáñamo",300
+145,23.3 Zonas de hilado o bobinado en carretes,500
+146,"23.4 Deformado, costura, trenzado, tejido de punto",500
+147,"23.5 Cosido, tejido fino, tomada de puntadas",750
+148,"23.6 Diseño manual, patrones de dibujo",750
+149,"23.7 Acabado, teñido",500
+150,23.8 Sala de secado,100
+151,23.9 Impresión automática de telas,500
+152,"23.10 Terminado (remoción de motas, nudos, hilos), recolección o selección y recorte",1000
+153,23.11 Inspección del color; control de tejido,1000
+154,23.12 Reparación invisible,1500
+155,23.13 Fabricación de sombreros,500
+156,24.1 Taller de prensa - piezas grandes,300
+157,24.2 Taller de prensa - inspección visual,500
+158,24.3 Trabajo de carrocería y montaje - línea automática,300
+159,24.4 Trabajo de carrocería y montaje - soldadura manual,500
+160,"24.5 Pintura, cámara de pulverización, cámara de pulido",750
+161,"24.6 Pintura, inspección, retoque y pulido",1000
+162,24.7 Fabricación de tapicería (manual),1000
+163,"24.8 Detallado:
+- Montaje de subpartes (puertas, salpicadero, tapicería)
+- Montaje bajo chasis
+- Montaje mecánico
+- Línea transportadora de montaje final",750
+164,"24.9 Detallado:
+- trabajo con electrónica",750
+165,24.10 Inspección final,1000
+166,"24.11 Servicios generales de vehículos, reparación y ensayos",500
+167,"25.1 Procesamiento automático, por ejemplo, secado, fabricación de madera contrachapada",50
+168,25.2 Pozos de vapor,150
+169,25.3 Marco de sierra,300
+170,"25.4 Trabajo en banco de carpintería, encolado, montaje",300
+171,"25.5 Pulido, pintura, carpintería de lujo",750
+172,"25.6 Trabajos en máquinas para trabajar la madera, por ejemplo, torneado, estriado, revestimiento, rebatido,  ranurado, corte, aserrado, hundimiento",500
+173,25.7 Selección de maderas de chapa,750
+174,"25.8 Marquetería, trabajo de incrustación",750
+175,"25.9 Control de calidad, inspección",1000
+176,"26.1 Área de copiado, impresión, etc.",300
+177,"26.2 Escritura, mecanografía, lectura, procesamiento de datos",500
+178,26.3 Dibujo técnico,750
+179,26.4 Estaciones de trabajo CAD,500
+180,26.5.1 Salas de conferencias y reuniones,500
+181,26.5.2 Mesa de conferencias,500
+182,26.6 Recepción,300
+183,26.7 Área de archivo,200
+184,27.1 Área general de ventas,300
+185,27.2 Área de la caja registradora,500
+186,27.3 Área/mesa de empacado,500
+187,27.4 Área de almacenamiento,300
+188,27.5 Vestuario/probado r (vestidor),300
+189,28.1 Pasillos de entrada,100
+190,28.2 Guardarropa,200
+191,28.3 Salones,200
+192,28.4 Taquillas,300
+193,"29.1 Mostrador de recepción / cajero, escritorio de porteros",300
+194,29.2 Cocina,500
+195,29.4 Restaurante de autoservicio,200
+196,29.5 Buffet,300
+197,29.6 Salas de conferencias,500
+198,29.7 Pasillos,100
+199,30.1 Salas de práctica/ensayo,300
+200,30.2 Vestieres,300
+201,"30.3 Zonas de estar mantenimiento, limpieza",200
+202,30.4 Zona de suspensión de equipos en el área del escenario,300
+203,31.1 Iluminación general,300
+204,33.1 Estanterías,200
+205,33.2 Área de lectura,500
+206,33.3 Área de bibliotecarios,500
+207,33.4 Iluminación general,300
+208,34.1 Rampas de entrada/salida (durante las horas del día),300
+209,34.2 Rampas de entrada/salida (por la noche),75
+210,"34.3 Carriles de circulación de vehículos, rampas internas y sendas peatonales adyacentes a los carriles de circulación vehicular",75
+211,34.4 Áreas de estacionamiento no abiertas al público,75
+212,"34.5 Áreas de estacionamiento: abiertas al público con un gran número de usuarios, por ejemplo, centros comerciales, plazas.",150
+213,34.6 Taquilla,300
+214,35.1 Sala de juegos,300
+215,35.2 Guarderías,300
+216,35.3 Sala de manualidades,300
+217,"36.1 Aula o salón de clases, salas de lectura -
+Actividades generales",500
+218,"36.2 Auditorio, salas de conferencias",500
+219,36.3 Áreas para sentarse en auditorios y salas de conferencias,200
+220,"36.4 Tableros negros, verdes y blancos",500
+221,"36.5 Tableros negros, verdes y blancos en auditorios y salas de conferencias",500
+222,36.7 Tablero de visualización/Pantalla,200
+223,36.8 Mesa de demostración en auditorios y salas de conferencias,750
+224,36.10 Luz sobre el área del podio,300
+225,36.11 Sólo trabajos con computadoras,300
+226,36.12 Salas de arte en las escuelas de arte,750
+227,36.13 Salas de dibujo técnico,750
+228,36.14 Salas de prácticas y laboratorios,500
+229,36.15 Salas de manualidades / Artesanías,500
+230,36.16 Taller de enseñanza,500
+231,36.17 Salas de preparación y talleres,500
+232,36.18 Hall de entrada del edificio / Pasillos principal de entrada del edificio,200
+233,"36.19 Zonas de circulación, corredores",100
+234,36.2 Escaleras dentro de edificios educativos,150
+235,36.21 Salas comunes para estudiantes y salones de reuniones,200
+236,36.22 Salas de profesores,300
+237,36.23 Biblioteca: estanterías,200
+238,36.24 Biblioteca: áreas de lectura,500
+239,36.25 Almacenes para materiales didácticos,100
+240,"36.26 Pabellones deportivos, gimnasios, piscinas",300
+241,36.27 Comedores escolares,200
+242,36.28 Cocina,500
+243,37.1 Salas de espera,200
+244,37.2 Pasillos: durante el día,100
+245,37.3 Pasillos: limpieza,100
+246,37.4 Pasillos: durante la noche,50
+247,"37.5 Pasillos multipropósito (por ejemplo, preexamen de pacientes)",200
+248,37.6 Salas de estar,300
+249,37.7 Ascensores para personas y visitantes,100
+250,37.8 Ascensores de servicio,200
+251,38.1 Oficina del personal,500
+252,38.2 Salas de personal,300
+253,39.1 Iluminación general,100
+254,39.2 Iluminación para lectura,300
+255,39.3 Pabellones - Exámenes simples,300
+256,39.4 Examen y tratamiento,1000
+257,"39.5 Iluminación nocturna, iluminación para observación",5
+258,39.6 Baños para pacientes,200
+259,40.1 Iluminación general,500
+260,40.2 Área de examinación y tratamiento,1000
+261,41.1 Iluminación general,500
+262,41.2 Examen de la parte externa del ojo,1000
+263,41.3 Pruebas de lectura y visión del color con gráficos de visión,500
+264,42.1 Iluminación general,500
+265,42.2 Área de examen del oído,1000
+266,43.1 Iluminación general,300
+267,43.2 Escáneres con potenciadores de imagen y sistemas de televisión,50
+268,44.1 Iluminación general,300
+269,44.2 Área de examinación y tratamiento,1000
+270,45.1 Diálisis,500
+271,45.2 Dermatología,500
+272,45.3 Endoscopia,300
+273,45.4 Enyesado,500
+274,45.5 Baños médicos,300
+275,45.6 Masaje y radioterapia,300
+276,46.1 Salas preoperatoria y de recuperación,500
+277,46.2 Alrededores de la mesa de operación,1000
+278,46.3 Quirófano,1000
+279,47.1 Iluminación general,300
+280,47.2 Exámenes sencillos,500
+281,47.3 Examen y tratamiento,1000
+282,47.4 Observación nocturna,20
+283,48.1 Iluminación general,500
+284,48.2 En el paciente,1000
+285,49.1 Iluminación general,500
+286,49.2 Inspección de color,1000
+287,50.1 Esterilización,500
+288,50.2 Desinfección,500
+289,51.1 Iluminación general,500
+290,51.2 Mesas de autopsia y mesas de disección,5000
+291,"52.1 Salas de llegadas y salidas, zonas de reclamo de equipaje",200
+292,52.2 Áreas de conexión,150
+293,"52.3 Mostradores de información, mostradores de facturación y check-in.",500
+294,52.4 Áreas de aduanas y control de pasaportes,500
+295,52.5 Áreas de espera,200
+296,52.6 Salas de almacenamiento de equipaje,200
+297,52.7 Áreas de control de seguridad,300
+298,52.8 Torre de control del tráfico aéreo,500
+299,"52.9 Tareas en hangares:
+-  Áreas de prueba y reparación
+-  Áreas de prueba del motor
+-  Áreas de
+medición",500
+300,"53.1.1 Plataformas totalmente cubiertas, pequeño número de pasajeros, por ejemplo, estaciones pequeñas, estaciones en zonas apartadas no urbanas, etc.",50
+301,"53.1.2 Plataformas totalmente cubiertas, número medio de pasajeros, por ejemplo, estaciones intermedias, etc.",100
+302,"53.1.3 Plataformas totalmente cubiertas, gran número de pasajeros, número grande de pasajeros, por ejemplo, terminales/estacio nes de integración, de cabecera o portales, grandes estaciones de transporte masivo, terminales de transporte terreste, etc.",200
+303,"53.2.1 Metro de pasajeros totalmente cerrado (pasos subterráneos), pequeño número de pasajeros",50
+304,"53.2.2 Metro de pasajeros totalmente cerrado (pasos subterráneos), número medio de pasajeros",100
+305,"53.2.3 Metro de pasajeros totalmente cerrado (pasos subterráneos), gran número de pasajeros",200
+306,"53.3.1 Escaleras, escaleras mecánicas, pequeño número de pasajeros",50
+307,"53.3.2 Escaleras, escaleras mecánicas, número medio de pasajeros",100
+308,"53.3.3 Escaleras, escaleras mecánicas, gran número de pasajeros",200
+309,53.4 Taquilla y vestíbulo,200
+310,53.5 Mostradores de venta de tiquetes y oficinas de equipaje,300
+311,53.6 Salas de espera,200
+312,53.7 Pasillos de entrada y de la estación,200
+313,53.8 Salas de máquinas e interruptores,200
+314,53.8.1 Centro de control ferroviario (zona de despachador),200
+315,53.9 Túneles de acceso,50
+316,53.10.1 Trabajos de montaje en cobertizos de mantenimiento - áspero,200
+317,53.10.2 Trabajos de montaje en cobertizos de mantenimiento - medio,300
+318,53.10.3 Trabajos de montaje en cobertizos de mantenimiento - fino,500
+319,53.10.4 Trabajos de montaje en cobertizos de mantenimiento - precisión,750
+320,53.10.5 Áreas de circulación para zonas de mantenimiento de vehículos ferroviarios (sin tráfico vehicular adicional),100
+321,53.10.6 Áreas de circulación para zonas de mantenimiento de vehículos ferroviarios (con tráfico vehicular adicional),150
